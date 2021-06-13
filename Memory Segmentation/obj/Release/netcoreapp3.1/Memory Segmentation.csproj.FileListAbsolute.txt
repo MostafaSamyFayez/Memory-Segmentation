@@ -1,0 +1,14 @@
+C:\Users\Elsahy\Desktop\OS Memory Management\Memory Segmentation\Memory Segmentation\bin\Release\netcoreapp3.1\Memory Segmentation.exe
+C:\Users\Elsahy\Desktop\OS Memory Management\Memory Segmentation\Memory Segmentation\bin\Release\netcoreapp3.1\Memory Segmentation.deps.json
+C:\Users\Elsahy\Desktop\OS Memory Management\Memory Segmentation\Memory Segmentation\bin\Release\netcoreapp3.1\Memory Segmentation.runtimeconfig.json
+C:\Users\Elsahy\Desktop\OS Memory Management\Memory Segmentation\Memory Segmentation\bin\Release\netcoreapp3.1\Memory Segmentation.runtimeconfig.dev.json
+C:\Users\Elsahy\Desktop\OS Memory Management\Memory Segmentation\Memory Segmentation\bin\Release\netcoreapp3.1\Memory Segmentation.dll
+C:\Users\Elsahy\Desktop\OS Memory Management\Memory Segmentation\Memory Segmentation\bin\Release\netcoreapp3.1\Memory Segmentation.pdb
+C:\Users\Elsahy\Desktop\OS Memory Management\Memory Segmentation\Memory Segmentation\obj\Release\netcoreapp3.1\Memory_Segmentation.Form1.resources
+C:\Users\Elsahy\Desktop\OS Memory Management\Memory Segmentation\Memory Segmentation\obj\Release\netcoreapp3.1\Memory Segmentation.csproj.GenerateResource.cache
+C:\Users\Elsahy\Desktop\OS Memory Management\Memory Segmentation\Memory Segmentation\obj\Release\netcoreapp3.1\Memory Segmentation.AssemblyInfoInputs.cache
+C:\Users\Elsahy\Desktop\OS Memory Management\Memory Segmentation\Memory Segmentation\obj\Release\netcoreapp3.1\Memory Segmentation.AssemblyInfo.cs
+C:\Users\Elsahy\Desktop\OS Memory Management\Memory Segmentation\Memory Segmentation\obj\Release\netcoreapp3.1\Memory Segmentation.csproj.CoreCompileInputs.cache
+C:\Users\Elsahy\Desktop\OS Memory Management\Memory Segmentation\Memory Segmentation\obj\Release\netcoreapp3.1\Memory Segmentation.dll
+C:\Users\Elsahy\Desktop\OS Memory Management\Memory Segmentation\Memory Segmentation\obj\Release\netcoreapp3.1\Memory Segmentation.pdb
+C:\Users\Elsahy\Desktop\OS Memory Management\Memory Segmentation\Memory Segmentation\obj\Release\netcoreapp3.1\Memory Segmentation.genruntimeconfig.cache

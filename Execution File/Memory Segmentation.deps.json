@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Memory Segmentation/1.0.0": {
+        "runtime": {
+          "Memory Segmentation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Memory Segmentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
